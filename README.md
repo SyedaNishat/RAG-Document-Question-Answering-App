@@ -25,6 +25,7 @@ It’s useful for students, researchers, and professionals who want to quickly e
 - What is the main idea of this paper?
 - Which dataset was used in the experiment?
 - Explain the workflow discussed in the document.
+- Who is the Author?
 
 **Future Improvements**
 - Add option to process multiple PDFs at once.
@@ -34,3 +35,4 @@ It’s useful for students, researchers, and professionals who want to quickly e
 Author
 
 Syeda Nishat
+
