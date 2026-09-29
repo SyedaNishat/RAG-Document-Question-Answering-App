@@ -3,7 +3,7 @@
 **Overview**
 This project is a simple RAG-based Question Answering system that lets us upload a PDF and ask questions about its content.
 The app reads the document, finds the most relevant sections, and generates accurate answers — all using local models.
-It’s useful for students, researchers, and professionals who want to quickly extract key insights from long reports, papers, or manuals. hghjb
+It’s useful for students, researchers, and professionals who want to quickly extract key insights from long reports, papers, or manuals.
 
 **Features**
 - Upload any PDF file.
